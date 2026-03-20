@@ -36,8 +36,8 @@ Se diseñó un flujo automatizado que:
 
 ### Notificación automática por correo
 
+<img width="1368" height="999" alt="image" src="https://github.com/user-attachments/assets/9f84cad8-8a59-4a90-8246-2e799beae133" />
 
-<img width="461" height="482" alt="Screenshot 2026-03-19 202533" src="https://github.com/user-attachments/assets/1534e4ad-4522-4f01-9dec-46283bff2a6f" />
 
 ## Tecnologías utilizadas
 
